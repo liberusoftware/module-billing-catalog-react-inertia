@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-catalog-react-inertia",
+  "capabilityKey": "liberusoftware/module-billing-catalog",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-billing-catalog-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/billing/nextjs/catalog.md",
+  "presentationPlan": "projects/billing/react/catalog.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
